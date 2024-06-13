@@ -1,0 +1,10 @@
+// Developer: Joshua Emmons
+// Date: May 2, 2024
+// Purpose: Simple program to output "Hello, World!" in C++
+
+#include <iostream> // Include the I/O library
+
+int main() {
+    std::cout << "Hello, World!" << std::endl; // Print "Hello, World!" to the console
+    return 0; // Exit the program
+}
